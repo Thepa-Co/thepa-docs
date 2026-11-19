@@ -17,3 +17,4 @@ Les dépôts du projet sont hébergés dans l'organisation [Thepa-Co](https://gi
 - [API](https://github.com/Thepa-Co/web-services-thepa-api)
 - [Application web](https://github.com/Thepa-Co/web-services-thepa-web-app)
 - [Application mobile](https://github.com/Thepa-Co/web-services-thepa-mobile-app)
+- [Backlog du projet](https://github.com/orgs/Thepa-Co/projects/2/views/1)
